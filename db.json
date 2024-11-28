@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "nome": "Lucas Pablo de Paula",
+      "email": "lucas@gmail.com",
+      "senha": "1",
+      "role": "museu:admin",
+      "id": 1
+    }
+  ],
+  "visitas": [
+    {
+      "data": "2023-06-29",
+      "horario": "07:00 as 12:00",
+      "pessoas": [
+        {
+          "tipoDocumento": "cpf",
+          "documentInput": "111",
+          "nome": "lucas",
+          "tipoIngresso": "inteira"
+        },
+        {
+          "tipoDocumento": "cpf",
+          "documentInput": "111",
+          "nome": "theo",
+          "tipoIngresso": "meia"
+        }
+      ],
+      "email": "lucas@gmail.com",
+      "celular": "1111",
+      "quantidade": "2",
+      "idUsuario": 1,
+      "id": 1
+    }
+  ],
+  "esculturas": [
+    {
+      "id": 1,
+      "titulo": "",
+      "descricao": "",
+      "urlImagem": ""
+    },
+    {
+      "titulo": "teste",
+      "descricao": "teste",
+      "urlImagem": "https:teste.com.br",
+      "id": 2
+    },
+    {
+      "titulo": "TESTE",
+      "descricao": "TESTE",
+      "urlImagem": "http://teste.com",
+      "id": 3
+    }
+  ]
+}

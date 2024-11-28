@@ -1,0 +1,19 @@
+.row-home {
+	padding: 2em;
+	justify-content: center;
+
+}
+
+.home-image {
+	width: 100%;
+	max-width: 100%;
+}
+
+
+
+@media only screen and (max-width: 1120px) {
+	.col-md-8 {
+	  width: 100%;
+	  float: none;
+	}
+  }
